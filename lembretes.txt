@@ -1,0 +1,11 @@
+coneção DB 
+imagem buscar no DB 
+adicionar getway de pagamento 
+crud criar usuario
+crud logar 
+crud deletar usuario (adm )
+crud adicionar produto 
+funcionalidade de pesquisa na barra de psquisa com auto complete 
+adicionar paginação 
+
+nao deixar comprar caso não estejá logado 
